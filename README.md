@@ -9,3 +9,6 @@ Should be fun
 * `git commit -m "message"`
 * `git checkout SHA` set working directory to a hashcode (the commit identifier)
 * `git checkout main` return to the latest commit
+
+
+This is just a test about main and branches and stuff!
