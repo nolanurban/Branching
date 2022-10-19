@@ -12,3 +12,6 @@ Should be fun
 * `git branch` list branches
 * `git branch (newBranch)` creates local branch name
 * `git checkout BranchName` switches to the branches
+
+
+* `git config -l ` list configuration
